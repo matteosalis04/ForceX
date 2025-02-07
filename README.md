@@ -85,3 +85,9 @@ Unauthorized use of this script on third-party systems is **ILLEGAL**. The autho
 
 ## ⭐ Contribute
 If you have ideas to improve this script, feel free to **fork** it and open a **pull request**! 😉
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the LICENSE file for more details.
