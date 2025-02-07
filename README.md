@@ -77,7 +77,7 @@ Unauthorized use of this script on third-party systems is **ILLEGAL**. The autho
 ---
 
 ## 👨‍💻 Author
-**matteosalis04** - Aspiring Ethical Hacker & Python Developer
+**MagicSale** - Aspiring Ethical Hacker & Python Developer
 
 📧 Contact me on [GitHub](https://github.com/matteosalis04) for suggestions or improvements!
 
